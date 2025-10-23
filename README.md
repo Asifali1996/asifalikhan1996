@@ -1,4 +1,4 @@
-# # 👋 Hi, I'm Asif Ali Khan
+# 👋 Hi, I'm Asif Ali Khan
 
 🚀 **Quality Assurance Officer | Mobile App Testing | Web App Testing | Bug Hunter**  
 
@@ -30,7 +30,7 @@ I’m passionate about delivering **bug-free, user-friendly mobile and web exper
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn] [www.linkedin.com/in/asif-ali-khan-147930217]
+- 💼 [LinkedIn] (www.linkedin.com/in/asif-ali-khan-147930217)
 - 📧 asifalikhan090@gmail.com
 
 ---
